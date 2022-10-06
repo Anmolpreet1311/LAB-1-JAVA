@@ -4,7 +4,7 @@ class CustomerTest {
 
     @org.junit.jupiter.api.Test
     void addToCart() {
-        Customer c = new Customer("harsh",10.00);
+        Customer c = new Customer("anmol",10.00);
 
 
 
