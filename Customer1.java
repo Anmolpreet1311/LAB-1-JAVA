@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Customer Class
  * <b>Nice Customer</b>
  * <p></p>
- * @author Harshdeep and Lovepreet
+ * @author anmolpreet kaur 
  * @version 1.1
  * @since Today's evening
  */
@@ -13,8 +13,7 @@ public class Customer {
     private double balance;
     private ArrayList<Product>bought;
     /**
-     * @param cName
-     * @param balance
+   
      */
     public Customer(String cName, double balance) {
         this.cName = cName;
