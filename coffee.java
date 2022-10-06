@@ -2,9 +2,7 @@
  * Product Class
  * <b>Hello </b>
  * <p></p>
- * @author Harshdeep and Lovepreet
- * @version 1.1
- * @since Today's evening
+ * @ author anmolpreet kaur 
  */
 public class Coffee extends Product{
     public int numOfCream;
